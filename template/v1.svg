@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-1248.039"
-     inkscape:cy="4636.5799"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-821.40885"
+     inkscape:cy="3731.3146"
      inkscape:document-units="px"
-     inkscape:current-layer="layer54"
+     inkscape:current-layer="layer34"
      showgrid="false"
      inkscape:showpageshadow="false"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
@@ -1303,6 +1303,11 @@
            d="m -1690,-3431.1567 1176,0"
            id="path5142-6"
            inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;fill-rule:evenodd;stroke:#3c403f;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.15686275"
+           d="m -1689.9999,-1695.6378 1176,0"
+           id="path5142-6-4"
+           inkscape:connector-curvature="0" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -2185,6 +2190,33 @@
                y="-2993.6377"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
              id="flowPara4595">My name is Rafał and I am software engineer at StepStone. I fascinate new technology which give us new opportunity to create exciting products and makes fun. I found love to JavaScript especially AngularJS - I discover power of this framework and learn it. In daily programming I use ColdFusion 9 and ColdBox MVC framework (from 7 years). I love travel on the world - these big and small.</flowPara></flowRoot>      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer55"
+         inkscape:label="footer">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1397.2451"
+           y="-1651.614"
+           id="text4541"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4543"
+             x="-1397.2451"
+             y="-1651.614">Rafał Salamon, Warszawa 2011-2015, Designed by Rafał Salamon</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#260108;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1330.1113"
+           y="-1627.1194"
+           id="text4545"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4547"
+             x="-1330.1113"
+             y="-1627.1194">ABOUT | PROJECTS | JOURNEYS | CONTACT</tspan></text>
+      </g>
       <g
          inkscape:groupmode="layer"
          id="layer39"
